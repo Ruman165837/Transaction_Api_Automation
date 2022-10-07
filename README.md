@@ -23,7 +23,7 @@
 - Node.js must be installed
 
 ## API Documentation
-shorturl.at/tAERY
+https://cutt.ly/jBo9aKU
 
 ## Output
 
